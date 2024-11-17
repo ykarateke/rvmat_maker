@@ -91,6 +91,17 @@ class Stage2
 };
 ```
 
+## Screenshots
+
+### Interface Example:
+![Interface Example](https://i.imgur.com/5DeHao8.jpeg)
+
+### Folder Selection:
+![Folder Selection](https://imgur.com/b2178b8e-b594-4419-a3bc-f4da6e33f3ca)
+
+### File Processing:
+![File Processing](https://imgur.com/2763c204-4ebe-4688-b31f-f64c3c0c6d96)
+
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
