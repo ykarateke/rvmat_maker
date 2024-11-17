@@ -97,10 +97,10 @@ class Stage2
 ![Interface Example](https://i.imgur.com/5DeHao8.jpeg)
 
 ### Folder Selection:
-![Folder Selection](https://imgur.com/b2178b8e-b594-4419-a3bc-f4da6e33f3ca)
+![Folder Selection](https://i.imgur.com/KeoArS1.jpeg)
 
 ### File Processing:
-![File Processing](https://imgur.com/2763c204-4ebe-4688-b31f-f64c3c0c6d96)
+![File Processing](https://i.imgur.com/UO2WVQc.jpeg)
 
 ## Contributing
 
