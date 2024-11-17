@@ -20,7 +20,7 @@ A Python-based tool to automatically generate `.rvmat` files for ArmA 3 modding 
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/your-repo-name/RVmat-File-Generator.git
+   git clone https://github.com/ykarateke/rvmat_maker.git
    cd RVmat-File-Generator
    ```
 
